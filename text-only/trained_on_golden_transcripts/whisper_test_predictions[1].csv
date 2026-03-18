@@ -1,0 +1,182 @@
+SCENE,KEY,SENTENCE,label,video_id,video_path,whisper_text,pred,correct
+1_5786,1_5786_u,"All right, so technically it's not a dinner date. I suppose you could call it a, uh, dinfast date. But if you did, you'd open yourself to peer-based mocking, such as, ""Hey, Leonard, how was your dinfast with Priya last night?""",0,1_5786_u,/content/test_videos/1_5786_u.mp4,"All right, so technically, it's not a dinner date. I suppose you could call it a din-fast date. But if you did, you'd open yourself to pure-based mocking, such as, hey, Leonard, how was your din-fast with pre-Elast Night?",0,1
+2_416,2_416_u,Were you so late because you were burying this woman?,1,2_416_u,/content/test_videos/2_416_u.mp4,Were you so late because you were burying this woman?,0,0
+2_570,2_570_u,"Oh my god, where are all the men?",0,2_570_u,/content/test_videos/2_570_u.mp4,"Oh my God, where are all the men?",0,1
+1_12275,1_12275_u,"Uh, no. I overheard Bernadette tell Howard she was making him a meat loaf, and you don't have to not ask me twice.",0,1_12275_u,/content/test_videos/1_12275_u.mp4,"But no, I overheard Bernadette tell Howard she's making him a meatloaf, and you don't have to not ask me twice.",0,1
+2_225,2_225_u,"I don't know, something girlie.",0,2_225_u,/content/test_videos/2_225_u.mp4,"I don't know, something girly.",0,1
+1_S12E23_539,1_S12E23_539_u,"It was her, right?",1,1_S12E23_539_u,/content/test_videos/1_S12E23_539_u.mp4,"It was her, right?",0,0
+1_S10E18_391,1_S10E18_391_u,"Oh, great, it'll be easier for you to look up at the stars without a roof over your head.",1,1_S10E18_391_u,/content/test_videos/1_S10E18_391_u.mp4,"Great, it'll be easier for you to look up at the stars without a roof over your head.",0,0
+1_5699,1_5699_u,"Congratulations and welcome temporarily aboard. Here's your I.D. card, your key and your lapel pin. Which Leonard was too cool to wear.",1,1_5699_u,/content/test_videos/1_5699_u.mp4,"Now congratulations and welcome temporarily aboard. Here's your ID card, your key, and your lapel pin, which Leonard was too cool to wear.",0,0
+2_524,2_524_u,"Yes and we are ""very"" excited about it.",1,2_524_u,/content/test_videos/2_524_u.mp4,"my new furniture. Yes, and we're very excited about it. Actually, thanks for...",0,0
+1_S11E02_008,1_S11E02_008_u,"Yeah, I'm still mad at you. (clears throat)",0,1_S11E02_008_u,/content/test_videos/1_S11E02_008_u.mp4,"Yeah, I'm still mad at you.",0,1
+2_475,2_475_u,"Oh yeah ok, including the waffles last week, you now owe me, seventeen zillion dollars.",1,2_475_u,/content/test_videos/2_475_u.mp4,"Oh yeah right, okay including the waffles last week. You now owe me 17 jillion.",1,1
+2_454,2_454_u,"Ross umm, there's something that I've got to tell you, there's-there's someone else.",0,2_454_u,/content/test_videos/2_454_u.mp4,"Ross, there's something that I've got to tell you. There's someone else.",0,1
+1_S09E04_207,1_S09E04_207_u,"But I met with 11 people, and they all walked out.",0,1_S09E04_207_u,/content/test_videos/1_S09E04_207_u.mp4,But I met with 11 people and they all walked out.,0,1
+1_6627,1_6627_u,"Well, yeah, sex with you is pretty great. Have you ever tried it?",0,1_6627_u,/content/test_videos/1_6627_u.mp4,"Well, yeah, sex with you is pretty great. Have you ever tried it?",0,1
+1_S11E06_410,1_S11E06_410_u,"You were a terrible waitress, and we still asked you to get us a snack.",1,1_S11E06_410_u,/content/test_videos/1_S11E06_410_u.mp4,"You were a terrible waitress, and we still ask you to get us a snack.",0,0
+1_6534,1_6534_u,"No, but maybe she wants a man with a pocket watch.",0,1_6534_u,/content/test_videos/1_6534_u.mp4,"I don't think Amy wants a pocket watch. No, but maybe she wants a man with a pocket watch.",1,0
+1_1262,1_1262_u,You were very clear. As was everyone else at the table.,0,1_1262_u,/content/test_videos/1_1262_u.mp4,"Yes, you were very clear, as was everyone else at the table.",0,1
+2_124,2_124_u,I am so confused as to what we have been doing so far.,1,2_124_u,/content/test_videos/2_124_u.mp4,I'm so confused as to what we've been doing so far.,0,0
+1_S11E10_228,1_S11E10_228_u,"while we're apart, can I see other needy Indian men?",1,1_S11E10_228_u,/content/test_videos/1_S11E10_228_u.mp4,"While we're apart, can I see other needy Indian men? Get off!",0,0
+1_5211,1_5211_u,"Saying that while holding a snowflake is a bit heavy-handed, don't you think?",1,1_5211_u,/content/test_videos/1_5211_u.mp4,"Saying that while holding a snowflake's a little bit heavy-handed, don't you think?",0,0
+1_2616,1_2616_u,"Sure, maybe a tableau of me trying to pummel you to death.",1,1_2616_u,/content/test_videos/1_2616_u.mp4,"Sure, maybe a tableau of me trying to pummel you to death.",1,1
+1_S10E03_311,1_S10E03_311_u,"But let's say you do. And don't say you do, because you don't! Now, wouldn't you think that throwing yourself into your work would be the best way to deal with it?",0,1_S10E03_311_u,/content/test_videos/1_S10E03_311_u.mp4,"Well, let's say you do. And don't say you do because you don't. Now, wouldn't you think that throwing yourself into your work would be the best way to deal with it?",0,1
+2_245,2_245_u,"Well ah, I've been doing a lot of thinking, and I look at my life",0,2_245_u,/content/test_videos/2_245_u.mp4,I've been doing a lot of thinking. And I look at my life. Yeah.,0,1
+1_11924,1_11924_u,"All right, Amy's in charge of pricing and being 75.",1,1_11924_u,/content/test_videos/1_11924_u.mp4,"All right, Amy's in charge of pricing and being 75.",1,1
+2_242,2_242_u,Are you still enjoying your nap?,1,2_242_u,/content/test_videos/2_242_u.mp4,Are you still enjoying your nap?,0,0
+1_5058,1_5058_u,"An entire dinner to talk about your research? Where you going, the drive-thru at Jack in the Box?",1,1_5058_u,/content/test_videos/1_5058_u.mp4,research. An entire dinner to talk about your research? Where you going? The drive-through at Jack in the Box?,1,1
+1_S09E04_342,1_S09E04_342_u,Who cares? I thought the whole point of Footprints on the Moon was to write songs that make people think.,0,1_S09E04_342_u,/content/test_videos/1_S09E04_342_u.mp4,Who cares? I thought the whole point of footprints on the moon was to write songs that make people think.,1,0
+1_S10E03_144,1_S10E03_144_u,"Oh, I was gonna start at the end. Thank God you're here.",1,1_S10E03_144_u,/content/test_videos/1_S10E03_144_u.mp4,I was gonna start at the end. Thank God you're here.,0,0
+1_S12E11_002,1_S12E11_002_u,- A waste of champagne?,1,1_S12E11_002_u,/content/test_videos/1_S12E11_002_u.mp4,You know what I call this drink? A waste of champagne.,1,1
+1_S11E08_283,1_S11E08_283_u,Get to the point! Oh.,0,1_S11E08_283_u,/content/test_videos/1_S11E08_283_u.mp4,Point!,0,1
+2_272,2_272_u,Weā€™re not peeking?,0,2_272_u,/content/test_videos/2_272_u.mp4,We're not peeking?,0,1
+1_S11E07_153,1_S11E07_153_u,"Just a minute, I want to make sure Leonard can't hear us.",0,1_S11E07_153_u,/content/test_videos/1_S11E07_153_u.mp4,"Just a minute, let me make sure Leonard can't hear us.",0,1
+2_564,2_564_u,"And, uh, I don't know if you got any of that, but I would really like a copy of the tape.",0,2_564_u,/content/test_videos/2_564_u.mp4,but I would really like a copy of the tape.,0,1
+1_10748,1_10748_u,"There they go, fighting again. You'd never hear her talk that way to Sauvignon Blanc.",1,1_10748_u,/content/test_videos/1_10748_u.mp4,Here they go fighting again. You never hear her talk that way to Savignon Blanc.,1,1
+1_2075,1_2075_u,There's no hurry. Tell them more about their secret love for each other.,0,1_2075_u,/content/test_videos/1_2075_u.mp4,"There's no hurry, mother. Tell them more about their secret love for each other.",0,1
+2_534,2_534_u,"Oh, come on!",0,2_534_u,/content/test_videos/2_534_u.mp4,"Oh, come on!",0,1
+2_87,2_87_u,Yeah it would!,0,2_87_u,/content/test_videos/2_87_u.mp4,"Yeah, would.",0,1
+1_S11E04_347,1_S11E04_347_u,What about people distracted by irritating passengers?,1,1_S11E04_347_u,/content/test_videos/1_S11E04_347_u.mp4,What about people distracted by irritating passengers?,0,0
+1_S12E18_303,1_S12E18_303_u,No. (chuckles) It's great. I just don't want anyone to ever see it or read it or know it exists.,1,1_S12E18_303_u,/content/test_videos/1_S12E18_303_u.mp4,"No, it's great. I just don't want anyone to ever see it or read it or know it exists.",0,0
+2_264,2_264_u,Okay?,0,2_264_u,/content/test_videos/2_264_u.mp4,Thank you.,0,1
+2_612,2_612_u,"I don't know Rose, maybe Marry Poppins has an Italian cousin.",1,2_612_u,/content/test_videos/2_612_u.mp4,"I don't know, Rose. Maybe Mary Poppins has an Italian cousin.",1,1
+1_8417,1_8417_u,"Oh, I think we were looking at creepy in the rearview mirror when I put up that camera.",0,1_8417_u,/content/test_videos/1_8417_u.mp4,"Oh, I think we were looking at creepy in the rearview mirror when I put up that camera.",1,0
+2_194,2_194_u,"And it came out, ""Squatternut buash?""",0,2_194_u,/content/test_videos/2_194_u.mp4,"And it came out, squadron nut barge.",1,0
+1_427,1_427_u,"Well, I'm sorry, too, but there's just no room for you in my wallet.",1,1_427_u,/content/test_videos/1_427_u.mp4,"Well, I'm sorry too, but there's just no room for you in my wallet.",0,0
+1_1666,1_1666_u,Would it work if I just punched you in the face?,0,1_1666_u,/content/test_videos/1_1666_u.mp4,Would it work if I just punched you in the face?,1,0
+1_10890,1_10890_u,"Boy, when you met Bernadette, the field of robotics really took a hit.",1,1_10890_u,/content/test_videos/1_10890_u.mp4,"Boy, when you met Bernadette, the field of robotics really took a hit.",1,1
+1_6092,1_6092_u,"We don't say that, either. I'll make you a list. Oh, that would be mighty white of you.",0,1_6092_u,/content/test_videos/1_6092_u.mp4,"We don't say that either. I'll make your list. Oh, that'd be mighty wide of you.",1,0
+2_223,2_223_u,"I guess he wants to do a little dance, you know, make a little love. Well pretty much get down to that.",1,2_223_u,/content/test_videos/2_223_u.mp4,"Well, I'm guessing he wants to do a little dance. You know, make a little love. Well, pretty much get down to that.",0,0
+2_190,2_190_u,Well scott I am sure we are all really really looking forward to hear your story.,1,2_190_u,/content/test_videos/2_190_u.mp4,"Well, Scott, I'm sure we're all really, really looking forward to hearing this story.",0,0
+2_464,2_464_u,"Oh, uh, no thanks. I just had an M&M.",1,2_464_u,/content/test_videos/2_464_u.mp4,"Oh, no thanks. I just had an M&M.",0,0
+1_8746,1_8746_u,"I enjoyed it. When you told me I was going to be ""losing my virginity,"" I didn't think you meant showing me "" Raiders of the Lost Ark "" for the first time.",1,1_8746_u,/content/test_videos/1_8746_u.mp4,"I enjoyed it. But when you told me I was going to be losing my virginity, I didn't think you meant showing your radars to the Lost Ark for the first time. My...",0,0
+2_397,2_397_u,You still love me?,0,2_397_u,/content/test_videos/2_397_u.mp4,You still love me?,0,1
+2_154,2_154_u,"Okay, does this look like a garbage can to you?",0,2_154_u,/content/test_videos/2_154_u.mp4,"Okay, does this look like a garbage can to you? No.",0,1
+3_S02E01_096,3_S02E01_096_u,"Richard, tell him I'm CTO. Dinesh: You already told that fat guy that I'm the CTO.",0,3_S02E01_096_u,/content/test_videos/3_S02E01_096_u.mp4,"Tell him I'm CTO. No, you already told the fat guy I'm the CTO. Stop.",0,1
+1_S09E03_056,1_S09E03_056_u,It runs on syphilis?,1,1_S09E03_056_u,/content/test_videos/1_S09E03_056_u.mp4,It runs on syphilis?,1,1
+1_S10E09_169,1_S10E09_169_u,"I wet the bed until college, but I don't think",0,1_S10E09_169_u,/content/test_videos/1_S10E09_169_u.mp4,"I wet the bed until college, but I don't...",1,0
+1_S11E10_143,1_S11E10_143_u,Stop apologizing!,0,1_S11E10_143_u,/content/test_videos/1_S11E10_143_u.mp4,Apologizing.,0,1
+1_S10E08_131,1_S10E08_131_u,The last green thing I saw you eat was a Skittle.,1,1_S10E08_131_u,/content/test_videos/1_S10E08_131_u.mp4,The last green thing I saw you eat was a skittle.,0,0
+1_S12E07_264,1_S12E07_264_u,(whining): It's just so hard!,0,1_S12E07_264_u,/content/test_videos/1_S12E07_264_u.mp4,It's just so hard!,0,1
+2_372,2_372_u,Actually I yesterday I was smoking again. Today I am smoking still.,1,2_372_u,/content/test_videos/2_372_u.mp4,Today I was smoking again. Today I'm... I'm smoking still.,0,0
+1_S11E20_332,1_S11E20_332_u,And alive?,1,1_S11E20_332_u,/content/test_videos/1_S11E20_332_u.mp4,And alive?,1,1
+1_60,1_60_u,It's just a privilege to watch your mind at work.,1,1_60_u,/content/test_videos/1_60_u.mp4,It's just a privilege to watch your mind at work.,1,1
+1_11046,1_11046_u,"Wow, he really went where no man has gone before.",0,1_11046_u,/content/test_videos/1_11046_u.mp4,"Oh, you really went where no man has gone before.",1,0
+2_507,2_507_u,"No, I haven't taken her out of the trunk of the car yet.",1,2_507_u,/content/test_videos/2_507_u.mp4,"No, I haven't taken her out of the trunk of the car yet.",0,0
+1_11098,1_11098_u,"Wow, you still have it? I just assumed it was balled up in the corner of a barn somewhere.",1,1_11098_u,/content/test_videos/1_11098_u.mp4,"Wow, you still have it? I just assumed it was balled up in the corner of a barn somewhere.",1,1
+1_1678,1_1678_u,Answering the question once and for all why Wolowitz bailed out of medical school.,0,1_1678_u,/content/test_videos/1_1678_u.mp4,Answering the question once and for all why wallow it's bailed out of medical school,1,0
+1_105,1_105_u,I'm just inferring this is a couch because the evidence suggests the coffee table is having a tiny garage sale.,1,1_105_u,/content/test_videos/1_105_u.mp4,Now I'm just inferring that this is a couch because the evidence suggests the coffee table is having a tiny garage sale.,1,1
+1_S10E07_163,1_S10E07_163_u,"I'll take that as a ""Yes."" She's secretly been moving your collectibles into storage a little at a time and you haven't noticed.",0,1_S10E07_163_u,/content/test_videos/1_S10E07_163_u.mp4,"I'll take that as a yes. She's secretly been moving your collectibles into storage a little at a time, and you haven't noticed.",1,0
+2_627,2_627_u,"Whoa, whoa, whoa.",0,2_627_u,/content/test_videos/2_627_u.mp4,"One of it, no me. Whoa, whoa, whoa, whoa, whoa.",0,1
+1_S12E07_443,1_S12E07_443_u,I have no idea.,0,1_S12E07_443_u,/content/test_videos/1_S12E07_443_u.mp4,No idea!,0,1
+1_S11E04_024,1_S11E04_024_u,I already have a little version of Howard.,1,1_S11E04_024_u,/content/test_videos/1_S11E04_024_u.mp4,I already have a little version of how.,1,1
+1_S11E23_048,1_S11E23_048_u,"Ooh, now it's starting to sound like a good wedding.",1,1_S11E23_048_u,/content/test_videos/1_S11E23_048_u.mp4,"Oh, now it's starting to sound like a good wedding. Mm-hmm.",0,0
+2_494,2_494_u,But younger than some buildings!,1,2_494_u,/content/test_videos/2_494_u.mp4,But younger than some buildings.,1,1
+1_S11E24_338,1_S11E24_338_u,"Oh, science? Shocking!",1,1_S11E24_338_u,/content/test_videos/1_S11E24_338_u.mp4,Science is shocking!,1,1
+3_S01E03_024,3_S01E03_024_u,Is it a margarita machine?,0,3_S01E03_024_u,/content/test_videos/3_S01E03_024_u.mp4,Is it a margarita machine?,1,0
+1_S11E01_337,1_S11E01_337_u,"I'm sorry, what?",0,1_S11E01_337_u,/content/test_videos/1_S11E01_337_u.mp4,"I'm sorry, what?",0,1
+2_96,2_96_u,I don't think so. Hello?  When you get in there,0,2_96_u,/content/test_videos/2_96_u.mp4,"Really? No one's home? I don't think so. Hello? So, when you get in there...",0,1
+1_S11E05_429,1_S11E05_429_u,"Yeah, Bernadette texted earlier. Raj is really getting on her nerves.",0,1_S11E05_429_u,/content/test_videos/1_S11E05_429_u.mp4,"Yeah, Bernadette texted earlier, Raj is really getting on her nerves.",1,0
+1_S11E07_415,1_S11E07_415_u,Give him a chance. He's gonna get this.,0,1_S11E07_415_u,/content/test_videos/1_S11E07_415_u.mp4,"Give him a chance, he's gonna get this.",1,0
+1_S09E21_024,1_S09E21_024_u,You mean like through their window from behind a bush?,1,1_S09E21_024_u,/content/test_videos/1_S09E21_024_u.mp4,"You mean, like, through their window from behind a bush? Yeah.",1,1
+1_S09E20_029,1_S09E20_029_u,You may need this more than I do.,1,1_S09E20_029_u,/content/test_videos/1_S09E20_029_u.mp4,Squirrels. You may need this more than I do.,1,1
+1_S12E15_064,1_S12E15_064_u,"Oh, yeah, I would have forgotten, except for those nonrefundable airline tickets to India I bought.",1,1_S12E15_064_u,/content/test_videos/1_S12E15_064_u.mp4,"Oh, yeah, I would have forgotten. Except for those non-refundable airline tickets to India I bought.",0,0
+1_S12E02_105,1_S12E02_105_u,Are you sure she wasn't trying to breathe life back into him?,1,1_S12E02_105_u,/content/test_videos/1_S12E02_105_u.mp4,wasn't trying to breathe life back into him? I don't think so.,0,0
+1_S09E24_014,1_S09E24_014_u,Did she think you were choking or...,1,1_S09E24_014_u,/content/test_videos/1_S09E24_014_u.mp4,you were choking?,0,0
+3_S01E04_009,3_S01E04_009_u,"Oh, yeah. No, she's... She's very pretty.",0,3_S01E04_009_u,/content/test_videos/3_S01E04_009_u.mp4,"Oh, yeah. No, she's, uh, she's very pretty.",0,1
+2_270,2_270_u,Hey.,0,2_270_u,/content/test_videos/2_270_u.mp4,Hey.,0,1
+2_111,2_111_u,What was that?!,0,2_111_u,/content/test_videos/2_111_u.mp4,What was that?,0,1
+2_89,2_89_u,On the home shopping network,1,2_89_u,/content/test_videos/2_89_u.mp4,on the home shopping network.,0,0
+1_8717,1_8717_u,Because you're in the right lane behind a bus and you won't go around it? I'm sure she finds it charming.,1,1_8717_u,/content/test_videos/1_8717_u.mp4,Penny's mad at me. Because you're in the right lane behind a bus and won't go around it? I'm sure she finds a charming.,1,1
+1_3599,1_3599_u,Why don't you keep that stuff in the bathroom?,0,1_3599_u,/content/test_videos/1_3599_u.mp4,"top desk drawer. Why don't you keep that stuff in the bathroom? He does, isn't he?",1,0
+2_74,2_74_u,Show them your slides of Hawaii,1,2_74_u,/content/test_videos/2_74_u.mp4,Show them your slides of Hawaii.,1,1
+1_S11E06_448,1_S11E06_448_u,"Well, don't worry. He's now on my enemies list forever. He's totally cut off.",0,1_S11E06_448_u,/content/test_videos/1_S11E06_448_u.mp4,"Well, don't worry. He's now on my enemies list forever. He's totally cut off.",1,0
+1_5572,1_5572_u,"He drank from Leonard's glass. ""He drank from Leonard's glass""-- the words they'll be carving into my tombstone.",1,1_5572_u,/content/test_videos/1_5572_u.mp4,He drank from Leonard's glass. He drank from Leonard's glass. Words he'll be carving into my tombstone.,0,0
+2_30,2_30_u,So how'd it go?,0,2_30_u,/content/test_videos/2_30_u.mp4,So how'd it go?,0,1
+3_S01E04_342,3_S01E04_342_u,"For which I forewent, yes, that's a real word, one million dollars.",0,3_S01E04_342_u,/content/test_videos/3_S01E04_342_u.mp4,"For which I forwent, yes, that's a real word, $1 million.",1,0
+1_7186,1_7186_u,"Not exactly. Listen, if you don't mind, I'm not really up for chatting. I'm just going to sit here quietly and let my life flash before my eyes.",0,1_7186_u,/content/test_videos/1_7186_u.mp4,I'm not really up for chatting. I'm just going to sit here quietly and let my life flash before my eyes.,0,1
+3_S06E02_171,3_S06E02_171_u,"I finished Cryptonomicon,",0,3_S06E02_171_u,/content/test_videos/3_S06E02_171_u.mp4,"Absolutely because, yeah.",1,0
+1_S09E20_179,1_S09E20_179_u,No. You'll wish it would kill you.,1,1_S09E20_179_u,/content/test_videos/1_S09E20_179_u.mp4,You wish it would kill you.,1,1
+1_S09E04_015,1_S09E04_015_u,"now that Leonard and I are married, it kind of makes sense that we actually live together.",0,1_S09E04_015_u,/content/test_videos/1_S09E04_015_u.mp4,"Now that Blenner and I are married, it kind of makes sense that we actually live together.",0,1
+1_S11E20_143,1_S11E20_143_u,"Oh, just about who you're marrying.",1,1_S11E20_143_u,/content/test_videos/1_S11E20_143_u.mp4,Just about who you're marrying.,1,1
+2_50,2_50_u,"Nope, that patch is no good.",1,2_50_u,/content/test_videos/2_50_u.mp4,"Oh. Nope, that patch is no good.",1,1
+1_9003,1_9003_u,"I'm not going to bother him, I'm going to talk to him.",0,1_9003_u,/content/test_videos/1_9003_u.mp4,I'm not going to bother him. I'm going to talk to him.,0,1
+1_S10E05_120,1_S10E05_120_u,How 'bout we stay here? We don't even have to tell anyone. It'll be like a secret vacation at home.,0,1_S10E05_120_u,/content/test_videos/1_S10E05_120_u.mp4,"How about we stay here? Oh, we don't even have to tell anyone. It'll be like a secret vacation in on it.",0,1
+1_5109,1_5109_u,"Yeah, but you were just sleeping, because I forboded you to have sex.",0,1_5109_u,/content/test_videos/1_5109_u.mp4,"Yeah, but you were just sleeping because I've forbidden you to have sex.",0,1
+1_S11E19_143,1_S11E19_143_u,The drone or your stupid robot show,1,1_S11E19_143_u,/content/test_videos/1_S11E19_143_u.mp4,"What, the drone or your stupid robot show?",1,1
+1_S09E18_357,1_S09E18_357_u,Is there a switch on the back of his neck we don't know about?,1,1_S09E18_357_u,/content/test_videos/1_S09E18_357_u.mp4,back fold. Is there a switch on the back of his neck? We don't know.,1,1
+2_478,2_478_u,"Oh, wait a minute, I have no one.",1,2_478_u,/content/test_videos/2_478_u.mp4,"No. Oh, no, wait a minute. I have no one.",0,0
+3_S01E02_461,3_S01E02_461_u,I was sleeping. I'm sorry for sleeping and for lying about it.,0,3_S01E02_461_u,/content/test_videos/3_S01E02_461_u.mp4,I was sleeping. I'm sorry for sleeping and for lying about it.,0,1
+1_S12E04_195,1_S12E04_195_u,"She can get into any restaurant, but the best husband she can find is Raj?",1,1_S12E04_195_u,/content/test_videos/1_S12E04_195_u.mp4,"She can get into any restaurant, but the best husband she can find is Raj.",1,1
+1_11889,1_11889_u,"Yeah, we just want to have the kind of dinner that we've all had here so many times before.",0,1_11889_u,/content/test_videos/1_11889_u.mp4,"Yeah, we just want to have the kind of dinner that we've all had here so many times before. Good.",0,1
+1_2216,1_2216_u,"Excuse me, but what about me? Why don't I get a shot?",0,1_2216_u,/content/test_videos/1_2216_u.mp4,"Excuse me, but what about me? Why don't I get a shot? Fine.",0,1
+1_S09E03_125,1_S09E03_125_u,"If there was a hidden compartment, don't you think you'd be stuffed in it by now?",1,1_S09E03_125_u,/content/test_videos/1_S09E03_125_u.mp4,There was a hidden compartment. Don't you think you'd be stuffed in it by now?,0,0
+1_S11E03_365,1_S11E03_365_u,"Oh, my God, what happened?!",0,1_S11E03_365_u,/content/test_videos/1_S11E03_365_u.mp4,"Oh my god, what happened?",0,1
+1_S11E05_193,1_S11E05_193_u,I thought his work wife was standing in my kitchen.,1,1_S11E05_193_u,/content/test_videos/1_S11E05_193_u.mp4,work life was standing in my kitchen.,1,1
+2_49,2_49_u,We got a box.,0,2_49_u,/content/test_videos/2_49_u.mp4,We got a box.,0,1
+2_92,2_92_u,"No, no, I am just looking for a man to draw on me with chalk.",1,2_92_u,/content/test_videos/2_92_u.mp4,"No, I'm just looking for a man to draw on me with chalk.",1,1
+1_7953,1_7953_u,Why don't you ask Scotty to beam you up?,1,1_7953_u,/content/test_videos/1_7953_u.mp4,and why don't you ask Scottie to beam you up?,0,0
+1_S11E08_305,1_S11E08_305_u,Be even better if he swapped out the helium for xenon.,0,1_S11E08_305_u,/content/test_videos/1_S11E08_305_u.mp4,Be even better if he swapped out the helium for xenon.,1,0
+1_3287,1_3287_u,"Oh, sure. And while we're at it, why don't we put our hands behind our backs, have an old-fashioned eating contest?",1,1_3287_u,/content/test_videos/1_3287_u.mp4,"And while we're at it, why don't we put our hands behind our backs, have an old fashioned eating contest.",0,0
+1_8185,1_8185_u,We could go to Red Lobster and talk about it. We're all thinking it. I just had the decency to wait for him to leave.,0,1_8185_u,/content/test_videos/1_8185_u.mp4,Take the red lobster and talk about it. We're all thinking it. I just had the decency to wait for him to leave.,1,0
+2_598,2_598_u,"Our balcony? Seriously? That's so funny because I told Monica we should put lights on our balcony. - And she said - ""No no, its too cold, nobody will go out there.""  - I said ""Maybe if we put some lights out there they will"".",1,2_598_u,/content/test_videos/2_598_u.mp4,"Our balcony? Seriously? That's so funny, because I told Monica we should put lights on our balcony. And she said, no, no, it's too cold. Nobody will go out there. And I said, maybe if we put some lights out there, they won't.",0,0
+2_38,2_38_u,It's not a real game! I made it up!,0,2_38_u,/content/test_videos/2_38_u.mp4,It's not a real game. I made it up.,0,1
+1_S10E13_095,1_S10E13_095_u,"I've been seeing him for years, I'm still not convinced he's real.",1,1_S10E13_095_u,/content/test_videos/1_S10E13_095_u.mp4,"I've been seeing him for years, I'm still not convinced he's real.",0,0
+2_20,2_20_u,My duties?  All right.,0,2_20_u,/content/test_videos/2_20_u.mp4,My duties? Alright.,1,0
+3_S04E01_575,3_S04E01_575_u,"But since your failure as a leader is a virtual certainty, tolerating your short reign as CEO in exchange for a front-row seat to the disaster seems fair.",1,3_S04E01_575_u,/content/test_videos/3_S04E01_575_u.mp4,"But, since your failure as a leader is a virtual certainty, tolerating your short reign as CEO in exchange for a front row seat to the disaster seems fair.",0,0
+2_319,2_319_u,No.,0,2_319_u,/content/test_videos/2_319_u.mp4,No.,0,1
+1_S12E11_072,1_S12E11_072_u,"No offense, worker bees.",1,1_S12E11_072_u,/content/test_videos/1_S12E11_072_u.mp4,"No offense, worker bees.",1,1
+2_72,2_72_u,Oh well. It probably would've been the most constructive solution.,0,2_72_u,/content/test_videos/2_72_u.mp4,Oh well. That probably wouldn't have been the most constructive solution.,0,1
+2_426,2_426_u,"Are you kidding? I love that guy!  Morning's here! Morning is here,",0,2_426_u,/content/test_videos/2_426_u.mp4,"Are you kidding? I love that guy. Morning's here, but...",1,0
+2_393,2_393_u,Pheebs?,0,2_393_u,/content/test_videos/2_393_u.mp4,Febes?,1,0
+1_12331,1_12331_u,"Wow, there's a Denny's in Vegas you can actually get married in.",0,1_12331_u,/content/test_videos/1_12331_u.mp4,"Wow, there's a Denny's in Vegas, you can actually get married in.",1,0
+1_6188,1_6188_u,"Oh, my God, that's where I know you from.",1,1_6188_u,/content/test_videos/1_6188_u.mp4,"Oh my god, that's where I know you from.",1,1
+1_S10E10_158,1_S10E10_158_u,I would like to keep... the official flag of our apartment.,0,1_S10E10_158_u,/content/test_videos/1_S10E10_158_u.mp4,I would like to keep the official flag of our apartment.,1,0
+1_11006,1_11006_u,Maybe it's a good thing we came here. It's like a lesson in what not to do.,1,1_11006_u,/content/test_videos/1_11006_u.mp4,Maybe it's a good thing we came here. It's like a lesson in what not to do.,0,0
+1_S12E09_081,1_S12E09_081_u,"Well, I am shocked, Sheldon, because I totally believed that the woman you reported for being stingy with the peas couldn't keep her hands off you.",1,1_S12E09_081_u,/content/test_videos/1_S12E09_081_u.mp4,"Well, I am shocked, Sheldon, because I totally believe that the woman you reported for being stingy with the peas couldn't keep her hands off you.",1,1
+1_S11E02_299,1_S11E02_299_u,Tell me about it. Howie texts me every time his dog levels up in Warcraft.,0,1_S11E02_299_u,/content/test_videos/1_S11E02_299_u.mp4,Tell me about it. How he texts me every time his dog levels up in the warcraft.,1,0
+2_337,2_337_u,"Uh, listen, I need that broiling pan that Joey borrowed the other day.",0,2_337_u,/content/test_videos/2_337_u.mp4,"Listen, I need that broiling pan that Joey borrowed the other day.",1,0
+1_S09E20_127,1_S09E20_127_u,I'm surprised he let us conceive without him.,1,1_S09E20_127_u,/content/test_videos/1_S09E20_127_u.mp4,I'm surprised he let us conceive without him.,1,1
+1_S10E04_043,1_S10E04_043_u,I don't know. What if living together kills the romance?,0,1_S10E04_043_u,/content/test_videos/1_S10E04_043_u.mp4,I don't know. What if living together kills the romance?,1,0
+1_S10E11_321,1_S10E11_321_u,How many times do I have to say I'm sorry?,1,1_S10E11_321_u,/content/test_videos/1_S10E11_321_u.mp4,How many times do I have to say I'm sorry?,0,0
+1_S10E18_164,1_S10E18_164_u,Maybe we should take them both to the park and let them run around together.,1,1_S10E18_164_u,/content/test_videos/1_S10E18_164_u.mp4,"Maybe we should take them both to the park, let them run around together.",0,0
+3_S05E01_120,3_S05E01_120_u,"He was oddly tall, don't you think?",0,3_S05E01_120_u,/content/test_videos/3_S05E01_120_u.mp4,"He was oddly tall, don't you think?",1,0
+2_409,2_409_u,I'll catch you guys later.,0,2_409_u,/content/test_videos/2_409_u.mp4,I'll catch you guys later.,0,1
+3_S01E06_266,3_S01E06_266_u,She's attracted to ugliness.,1,3_S01E06_266_u,/content/test_videos/3_S01E06_266_u.mp4,She's attracted to ugliness.,0,0
+1_11699,1_11699_u,"No, Stuart picked out those throw pillows all on his own.",1,1_11699_u,/content/test_videos/1_11699_u.mp4,"No, Stuart picked up those tropellows all on his own.",1,1
+2_431,2_431_u,I'm never gonna get to meet her anyway.,0,2_431_u,/content/test_videos/2_431_u.mp4,I'm never gonna get to meet her anyway. What?,0,1
+2_310,2_310_u,Well thank God your livelihood doesn't depend on it.,1,2_310_u,/content/test_videos/2_310_u.mp4,"Well, thank God your livelihood doesn't depend on it.",1,1
+2_152,2_152_u,Your makeup?,1,2_152_u,/content/test_videos/2_152_u.mp4,your makeup?,1,1
+1_S12E12_030,1_S12E12_030_u,"Yeah, so impressive how you manage to bounce back after having no babies.",1,1_S12E12_030_u,/content/test_videos/1_S12E12_030_u.mp4,"Yeah, so impressive how you managed to bounce back after having no baby.",1,1
+2_585,2_585_u,"You and I, we're interfacing.",0,2_585_u,/content/test_videos/2_585_u.mp4,"You and I, we're interfacing.",0,1
+2_357,2_357_u,"Stating the obvious, but thank you. And it's not weird is it.",1,2_357_u,/content/test_videos/2_357_u.mp4,"Stating the obvious, but thank you. And it's not weird, is it? No.",1,1
+1_S10E05_110,1_S10E05_110_u,The only thing I hate more than you right now is that book!,0,1_S10E05_110_u,/content/test_videos/1_S10E05_110_u.mp4,The only thing I hate more than you right now is that book!,1,0
+1_7675,1_7675_u,"Anyway, to this day, I still can't see a box of crayons without crossing my legs.",0,1_7675_u,/content/test_videos/1_7675_u.mp4,"Anyway, to this day, I still can't see a box of crayons without crossing my legs.",0,1
+2_97,2_97_u,It would be nice to have a little guarantee though.,1,2_97_u,/content/test_videos/2_97_u.mp4,It'll be nice to have a little guarantee though.,1,1
+1_S11E22_149,1_S11E22_149_u,"If there's someone more relentless than you, I'd like to meet them.",1,1_S11E22_149_u,/content/test_videos/1_S11E22_149_u.mp4,There's someone more relentless than you. I'd like to meet them.,1,1
+1_S12E07_169,1_S12E07_169_u,"You know, if it's that easy, then why does Leonard have to drive you to work every day?",0,1_S12E07_169_u,/content/test_videos/1_S12E07_169_u.mp4,"You know, if it's that easy, then why does Litter have to drive you to work every day?",1,0
+2_102,2_102_u,No Blanche she is upset because they keep changing the taste of coke.,1,2_102_u,/content/test_videos/2_102_u.mp4,"No, Blanche. She's upset because they keep changing the taste of Coke.",1,1
+2_176,2_176_u,I'm the ruptured spleen.,0,2_176_u,/content/test_videos/2_176_u.mp4,I'm the ruptured spleen.,0,1
+1_2853,1_2853_u,"Obviously, waitressing at The Cheese Cake Factory is a complex socio-economic activity that requires a great deal of analysis and planning.",1,1_2853_u,/content/test_videos/1_2853_u.mp4,Obviously waitressing at the Cheesecake Factory is a complex socioeconomic activity that requires a great deal of analysis and planning.,1,1
+2_611,2_611_u,Just tell me how.,1,2_611_u,/content/test_videos/2_611_u.mp4,Tell me how,1,1
+1_6211,1_6211_u,"No. You mean this was all a ruse? Oh, how could I be so stu...",0,1_6211_u,/content/test_videos/1_6211_u.mp4,"No! You mean this was all a ruse? Oh, how could I be so s- STOOOOOO-",0,1
+1_5156,1_5156_u,"That's got to be fun for you, huh? Watching Hofstadter suck the saliva out of your sister's mouth?",1,1_5156_u,/content/test_videos/1_5156_u.mp4,"That's gotta be fun for you, huh? Watching Hofstetter suck the saliva out of your sister's mouth?",1,1
+1_S12E08_103,1_S12E08_103_u,Which is perfect.,1,1_S12E08_103_u,/content/test_videos/1_S12E08_103_u.mp4,print it?,1,1
+1_276,1_276_u,"Yeah, my parents felt that naming me Leonard and putting me in Advanced Placement classes wasn't getting me beaten up enough.",1,1_276_u,/content/test_videos/1_276_u.mp4,"Hello? Yeah, my parents felt that naming me Leonard and putting me in advanced placement classes wasn't getting me beaten up enough.",1,1
+1_6860,1_6860_u,"I'm sorry, it's the bad boy attitude that comes with this hair.",0,1_6860_u,/content/test_videos/1_6860_u.mp4,"I'm sorry, it's the bad boy attitude that comes with this hair.",0,1
+1_1189,1_1189_u,"I'm sorry, I am not going back to the Renaissance fair.",0,1_1189_u,/content/test_videos/1_1189_u.mp4,"I'm sorry, I am not going back to the Renaissance fair.",0,1
+2_3,2_3_u,And I think my testicles may be in here too,1,2_3_u,/content/test_videos/2_3_u.mp4,And I think my testicles may be in here too.,1,1
+2_55,2_55_u,"Oh hey, great, you're up. Rachel, this is my sister Krista. Krista, this is Rachel.",0,2_55_u,/content/test_videos/2_55_u.mp4,"Rachel, this is my sister, Christa. Christa, this is my sister.",0,1
+1_4290,1_4290_u,I just have a question. Does Bernadette ever talk about me?,0,1_4290_u,/content/test_videos/1_4290_u.mp4,I just have a question. Does Bernadette ever talk about me?,0,1
+2_180,2_180_u,That oughta do it.,0,2_180_u,/content/test_videos/2_180_u.mp4,Get out of here!,0,1
+2_204,2_204_u,"Oh Oh, I am convinced!",1,2_204_u,/content/test_videos/2_204_u.mp4,"Just do it! Oh, oh, I'm convinced.",1,1
+2_168,2_168_u,Did I wake you?,1,2_168_u,/content/test_videos/2_168_u.mp4,"Oh, oh, did I wake you?",0,0
+2_542,2_542_u,"Uh, Rachel's here, so good luck man, let me know how it works out.",1,2_542_u,/content/test_videos/2_542_u.mp4,"Well, Rachel's here, so good luck, man. Let me know how it works out.",0,0
+2_400,2_400_u,"Anyway, I should go, one of the lifeguards was just about to dismantle a nuclear device.",0,2_400_u,/content/test_videos/2_400_u.mp4,"Anyway, I should go. One of the lifeguards was just about to dismantle a nuclear device.",0,1
+2_140,2_140_u,Sarcastic? Us? Nooo.,1,2_140_u,/content/test_videos/2_140_u.mp4,Zuckastic? Us? No!,1,1
+1_S10E04_082,1_S10E04_082_u,That's a good question. Maybe just don't come over.,0,1_S10E04_082_u,/content/test_videos/1_S10E04_082_u.mp4,That's a good question. Maybe just don't come over.,0,1
+2_11,2_11_u,His cappucino maker.,1,2_11_u,/content/test_videos/2_11_u.mp4,His cappuccino maker.,0,0
+3_S03E04_437,3_S03E04_437_u,"Thank you, Jared.",0,3_S03E04_437_u,/content/test_videos/3_S03E04_437_u.mp4,"Thank you, Jared.",0,1
+1_S10E07_198,1_S10E07_198_u,"Oh, don't worry, I won't.",0,1_S10E07_198_u,/content/test_videos/1_S10E07_198_u.mp4,I won't. Thanks.,0,1
+2_123,2_123_u,Nooo!,1,2_123_u,/content/test_videos/2_123_u.mp4,No. No!,0,0
+1_11526,1_11526_u,"As you may know, I've been experimenting with elevated anxiety levels, and I thought, what better way to increase my discomfort than to subject myself to an evening of tasteless uncensored crotch talk?",0,1_11526_u,/content/test_videos/1_11526_u.mp4,"As you may know, I've been experimenting with elevated anxiety levels, and I thought what better way to increase my discomfort than to subject myself to an evening of tasteless, uncensored crotch talk.",0,1
