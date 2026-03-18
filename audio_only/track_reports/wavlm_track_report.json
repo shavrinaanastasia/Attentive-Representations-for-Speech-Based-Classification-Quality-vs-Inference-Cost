@@ -1,0 +1,10 @@
+{
+    "test_accuracy": 0.6464088397790055,
+    "test_f1_macro": 0.6432618871643262,
+    "inference_latency_ms": 24.774309609947522,
+    "latency_std_ms": 4.367217556427591,
+    "total_flops": 13645806848.0,
+    "total_gflops": 13.645806848,
+    "model_parameters_count": 61540322.0,
+    "peak_vram_mb": 0.0
+}
