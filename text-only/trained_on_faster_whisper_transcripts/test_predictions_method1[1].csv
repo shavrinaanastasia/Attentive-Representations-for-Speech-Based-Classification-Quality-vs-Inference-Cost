@@ -1,0 +1,181 @@
+key,whisper_text,reference_text,label,speaker,show,word_error_rate,start_of_speech,end_of_speech,pred,correct
+2_272_u,We're not peeking?,Weā€™re not peeking?,0,JOEY,FRIENDS,0.3333333333333333,0.0,0.98,1,0
+1_7395_u,"If that's all it takes, it's a good thing you don't have a dog.","Well, if that's all it takes, it's a good thing you don't have a dog.",1,AMY,BBT,0.06666666666666667,0.42000000000000004,2.48,1,1
+1_S11E10_009_u,"Hey, you had unprotected sex with Howard.  You deserve to be miserable.","(knocking) Hey, you had unprotected sex with Howard. You deserve to be miserable.",0,PENNY,BBT,0.07692307692307693,0.9800000000000004,4.62,1,0
+1_S12E04_276_u,"So, what do you want to know?","So, what do you want to know?",0,OTHER,BBT,0.0,1.8400000000000016,2.68,0,1
+1_S10E07_247_u,she's enjoyed living with you. It's called being in love.,"Uh, she's enjoyed living with you. It's called being in love.",0,PENNY,BBT,0.09090909090909091,0.0,1.98,1,0
+1_S09E16_189_u,If you should get a new doctor,Maybe you should get a new doctor.,1,AMY,BBT,0.2857142857142857,1.6000000000000005,2.76,1,1
+1_5058_u,research. An entire dinner to talk about your research? Where are you going? The drive-thru at Jack in the Box?,"An entire dinner to talk about your research? Where you going, the drive-thru at Jack in the Box?",1,SHELDON,BBT,0.16666666666666666,0.0,7.46,1,1
+1_5699_u,"Now, congratulations and welcome temporarily aboard.  Here's your ID card, your key, and your lapel pin,  which Leonard was too cool to wear.","Congratulations and welcome temporarily aboard. Here's your I.D. card, your key and your lapel pin. Which Leonard was too cool to wear.",1,SHELDON,BBT,0.18181818181818182,0.0,11.58,1,1
+2_357_u,stating the obvious but thank you and it's not weird is it no,"Stating the obvious, but thank you. And it's not weird is it.",1,PHOEBE,FRIENDS,0.3333333333333333,0.0,5.08,1,1
+2_87_u,"Yeah, it would.",Yeah it would!,0,ROSS,FRIENDS,0.6666666666666666,1.0999999999999999,1.88,1,0
+2_546_u,"Oh, sure, she was probably up all night excited about the party she knows is happening.","Oh sure, she was probably up all night excited about the party she knows is happening.",1,CHANDLER,FRIENDS,0.0625,0.0,3.56,1,1
+2_181_u,"Yeah, look.",Yeah! Look!,0,JOEY,FRIENDS,1.0,0.0,0.54,1,0
+1_11485_u,Is that why you had to take him to Office Depot last night?,Is that why you had to take him to Office Depot last night?,0,PENNY,BBT,0.0,0.6599999999999997,3.24,1,0
+2_180_u,That ought to do it.,That oughta do it.,0,PHOEBE,FRIENDS,0.5,0.0,0.82,1,0
+2_598_u,our balcony seriously that's so funny because i told monica we should put lights on our balcony  and she said no no it's too cold nobody will go out there and i said  maybe if we put some lights out there they will,"Our balcony? Seriously? That's so funny because I told Monica we should put lights on our balcony. - And she said - ""No no, its too cold, nobody will go out there.""  - I said ""Maybe if we put some lights out there they will"".",1,CHANDLER,FRIENDS,0.28888888888888886,0.0,10.94,1,1
+3_S01E04_009_u,"Oh, yeah. No, she's, uh, she's very pretty.","Oh, yeah. No, she's... She's very pretty.",0,RICHARD,SV,0.2857142857142857,0.0,2.72,1,0
+1_2075_u,one o'clock there's no hurry mother tell them more about their secret love for each other,There's no hurry. Tell them more about their secret love for each other.,0,LEONARD,BBT,0.38461538461538464,0.0,3.24,1,0
+1_2853_u,"Obviously, waitressing at the Cheesecake Factory is a complex socioeconomic activity  that requires a great deal of analysis and planning.","Obviously, waitressing at The Cheese Cake Factory is a complex socio-economic activity that requires a great deal of analysis and planning.",1,SHELDON,BBT,0.14285714285714285,0.92,8.34,1,1
+3_S01E03_122_u,Your borders are merely a construct. I prefer to think of myself as a citizen of the world.,Your borders are merely a construct. I prefer to think of myself as a citizen of the world.,1,GILFOYLE,SV,0.0,0.5999999999999999,4.72,1,1
+1_S10E08_131_u,The last green thing I saw you eat was a Skittle.,The last green thing I saw you eat was a Skittle.,1,LEONARD,BBT,0.0,0.0,1.82,1,1
+2_345_u,"Oh, I left them on my bulldozer.  I don't have tools.",Oh I left them in my bulldozer .. I don't have tools!,1,CHANDLER,FRIENDS,0.4166666666666667,0.0,6.56,1,1
+1_S12E03_239_u,"I told him it was dumb, and now he's mad at me.","I told him it was dumb, and now he'’s mad at me.",0,HOWARD,BBT,0.08333333333333333,0.0,3.28,1,0
+2_570_u,oh my god where are all the men,"Oh my god, where are all the men?",0,CHANDLER,FRIENDS,0.25,1.8199999999999998,4.46,1,0
+1_7089_u,"How about you? Did you have a fun night?  Yeah, we made gift bags, had wine,  and then went online and saw this."," Yeah, we, uh, made gift bags, had wine, and then went online and saw this.",1,BERNADETTE,BBT,0.7333333333333333,0.9800000000000013,9.08,1,1
+2_103_u,"No, this is just part of a daredevil game that I play called  wait until the last moment before I burst and die.","No, this is just part of a daredevil game that I play called wait until last moment before I burst and die",1,CHANDLER,FRIENDS,0.09090909090909091,0.0,5.76,1,1
+1_S09E21_024_u,You mean like through their window from behind a bush?,You mean like through their window from behind a bush?,1,LEONARD,BBT,0.0,0.0,2.3,1,1
+2_481_u,All right.,All right.,0,ROSS,FRIENDS,0.0,0.0,0.3,0,1
+1_S11E05_193_u,work wife was standing in my kitchen.,I thought his work wife was standing in my kitchen.,1,BERNADETTE,BBT,0.3,0.0,1.32,1,1
+1_S12E04_046_u,Not knowing much about her does she have fingers,"Well, it's hard to say, not knowing much about her. Does she have fingers?",1,BERNADETTE,BBT,0.5,0.0,2.52,1,1
+1_3333_u,"Okay, I got a bone to pick with you.","Okay, I got a bone to pick with you.",0,HOWARD,BBT,0.0,1.5399999999999998,3.1,1,0
+1_S12E01_325_u,You called him Mike Tyson's little sister.,You called him Mike Tyson's little sister.,0,HOWARD,BBT,0.0,0.0,2.48,1,0
+2_409_u,I'll catch you guys later.,I'll catch you guys later.,0,CHANDLER,FRIENDS,0.0,2.88,3.78,0,1
+1_10797_u,I'm with him three years nothing she's with him two minutes he's taking his pants off,"I'm with him three years, nothing. She's with two minutes, and he's taking his pants off.",0,AMY,BBT,0.375,1.7200000000000002,5.26,1,0
+1_4031_u,"Yes, in 1917, when Albert Einstein established the theoretic foundation for the laser in his paper, Sir Quentin Terry, Der Strahlung, his fondest hope was that the resultant device be bitchin'.","In 1917, when Albert Einstein established the theoretic foundation for the laser in his paper <i>""Zur Quantentheorie der</i> <i>Strahlung,""</i> his fondest hope was that the resultant device be bitchin'.",1,SHELDON,BBT,0.2413793103448276,0.0,11.8,1,1
+1_S11E05_005_u,Which is why it's okay.,"Yeah, which is why it's okay.",0,PENNY,BBT,0.16666666666666666,0.0,1.58,1,0
+2_552_u,DANGER!,DANGER,0,ROSS,FRIENDS,1.0,0.0,0.54,0,1
+1_S12E08_006_u,"Well, how do you guys feel about going to India for my wedding?","Well, how would you guys feel about going to India for my wedding?",0,RAJ,BBT,0.07692307692307693,0.0,3.18,1,0
+2_527_u,"Thought you were just here for the company.  He's a sarcasmaholic, Stuart.",We thought you were just here for the company. He is a sarcasmoholic Stewart.,1,MEMBER-GIRL,SARCASMOHOLICS,0.35714285714285715,0.0,3.84,1,1
+3_S06E01_417_u,"Almost, J-Human.",-Almost a human.,1,GILFOYLE,SV,1.0,0.0,1.06,1,1
+2_96_u,"Really? No one's home?  I don't think so.  Hello?  So, when you get in there...",I don't think so. Hello?  When you get in there,0,ROSS,FRIENDS,0.6,0.0,12.3,1,0
+1_S12E12_043_u,"I open the door and say, hey, Raj.","I open the door and say, ""Hey, Raj.""",1,HOWARD,BBT,0.25,0.0,1.38,1,1
+1_2216_u,"Excuse me, but what about me?  Why don't I get a shot?  Fine.","Excuse me, but what about me? Why don't I get a shot?",0,LEONARD,BBT,0.08333333333333333,0.0,3.7,0,1
+1_6534_u,"think Amy wants a pocket watch. No, but maybe she wants a man with a pocket watch.","No, but maybe she wants a man with a pocket watch.",0,SHELDON,BBT,0.5454545454545454,0.0,3.7,1,0
+2_475_u,"Oh, yeah, right, okay, including the waffles last week, you now owe me 17 jillion.","Oh yeah ok, including the waffles last week, you now owe me, seventeen zillion dollars.",1,CHANDLER,FRIENDS,0.5333333333333333,0.0,5.54,1,1
+1_10009_u,"Let the dead man talk.  So why do you think that?  Uh, well.","Let the dead man talk. So, why do you think that?",0,PENNY,BBT,0.2727272727272727,0.0,4.82,1,0
+3_S01E06_266_u,She's attracted to ugliness,She's attracted to ugliness.,1,ERLICH,SV,0.25,0.0,1.64,1,1
+2_437_u,"Okay. First of all, chasing the churro guy is not jogging.","Oh yeah. First off all, chasing the Churo guy isn't jogging.",0,CHANDLER,FRIENDS,0.5454545454545454,0.0,3.1,1,0
+2_97_u,"It'd be nice to have a little guarantee, though.",It would be nice to have a little guarantee though.,1,RACHEL,FRIENDS,0.3,0.0,1.44,1,1
+1_S11E20_332_u,And alive?,And alive?,1,HOWARD,BBT,0.0,0.0,0.78,1,1
+3_S02E07_256_u,It's very comforting.,That's very comforting.,1,OTHER,SV,0.3333333333333333,0.94,1.74,1,1
+1_11021_u,about same as all of us getting out of a car without underwear,"Same as all of us, getting out of a car without underwear.",1,PENNY,BBT,0.25,0.0,3.0,1,1
+2_205_u,"Oh, God. I'm sorry. I did not mean to touch that.  I mean you.","I did not mean to touch that,I mean",0,RACHEL,FRIENDS,0.875,0.0,2.86,0,1
+2_234_u,See? There you go! The cleansing worked! You're right!,"See, there you go, the cleansing works!",0,PHOEBE,FRIENDS,0.7142857142857143,0.0,3.56,1,0
+1_S09E04_351_u,"I still love it, I just think there's room for improvement.",I still love it. I just think there's room for improvement.,0,RAJ,BBT,0.09090909090909091,0.0,2.28,1,0
+1_S12E15_420_u,"Really? Well, I did not see that coming.","Really? Well, I did not see that coming.",1,HOWARD,BBT,0.0,0.5799999999999996,3.44,1,1
+1_7490_u,"It's okay. You know, we space cowboys don't do what we do for glory and fame.  And we leave that to your rock stars and your athletes and your Howie Mandels.","It's okay, you know, we space cowboys don't do what we do for glory and fame. We leave that to your rock stars and your athletes and your Howie Mandels.",0,HOWARD,BBT,0.06666666666666667,0.0,11.48,1,0
+1_S11E08_005_u,"According to his text, he was on the second floor, then he stopped to tie his shoe.","Well, according to his text, he was on the second floor, then he stopped to tie his shoe.",0,LEONARD,BBT,0.05555555555555555,0.0,4.6,1,0
+1_5156_u,"that's got to be fun for you, huh?  Watching Hofstetter suck the saliva out of your sister's mouth?","That's got to be fun for you, huh? Watching Hofstadter suck the saliva out of your sister's mouth?",1,HOWARD,BBT,0.05555555555555555,0.9000000000000001,7.62,1,1
+2_534_u,"Oh, come on!","Oh, come on!",0,PHOEBE,FRIENDS,0.0,0.0,0.62,0,1
+1_8749_u,"It was very entertaining, despite the glaring story problem.",It was very entertaining... despite the glaring story problem.,1,AMY,BBT,0.1111111111111111,0.0,4.1,1,1
+1_1560_u,"Well, how nice. Maybe they can carpool when they visit you in federal prison.",How nice. Maybe they can carpool when they visit you in federal prison.,1,SHELDON,BBT,0.07692307692307693,0.0,3.1,1,1
+1_S10E13_095_u,"I've been seeing him for years, I'm still not convinced he's real.","I've been seeing him for years, I'm still not convinced he's real.",1,BERNADETTE,BBT,0.0,1.8199999999999998,4.74,1,1
+2_387_u,"I know, but her friend sounds like such a pathetic mess.  I know, but...","Yes, I know, but her friend sounds like such a...",0,CHANDLER,FRIENDS,0.7,0.0,3.3,1,0
+2_487_u,"And Hornswoggle, what are you, dating a character from Fraggle Rock?","And Hornswoggle? What? Are you dating a character from ""Fraggle Rock""? Ahh.",1,CHANDLER,FRIENDS,0.5,0.0,2.92,1,1
+1_S12E22_211_u,"So, you're an Indian giver.","So, you're an Indian giver?",1,HOWARD,BBT,0.2,1.4,5.14,1,1
+1_S11E05_060_u,No!,Wha... No!,0,PENNY,BBT,0.5,0.0,0.4,0,1
+2_420_u,"No, you're not, Chandler. We still love you, Chandler.","No you are not Chandler, we still love you Chandler",1,CHANDLER,FRIENDS,0.7,2.0999999999999996,3.96,0,0
+2_482_u,"You know, you stop being such a wuss and get those off,  and you come with us and watch naked girls dance around.","Y'know you, you just stop being such a wuss and get those off and you come with us and watch naked girls dance around!!",0,PHOEBE,FRIENDS,0.20833333333333334,0.0,7.54,1,0
+1_S09E05_291_u,I've been told it's a good way to move on.,I've been told it's a good way to move on.,0,SHELDON,BBT,0.0,0.4199999999999997,2.0,0,1
+1_S11E02_299_u,Tell me about it. How he texts me every time his dog levels up in Warcraft.,Tell me about it. Howie texts me every time his dog levels up in Warcraft.,0,BERNADETTE,BBT,0.13333333333333333,0.0,4.46,1,0
+2_241_u,"Anybody get a coat hanger?  Oh, I do.  Oh, no, wait a minute.  I took it out of my shirt when I put it on this morning.","Oh I do. Oh no, wait a minute, I took it out of my shirt when I put it on this morning.",1,CHANDLER,FRIENDS,0.36363636363636365,0.0,5.36,1,1
+1_S09E18_357_u,respectful. Is there a switch on the back of his neck? We don't know.,Is there a switch on the back of his neck we don't know about?,1,LEONARD,BBT,0.2857142857142857,0.0,4.18,1,1
+1_2616_u,"Sure, maybe a tableau of me trying to pummel you to death.","Sure, maybe a tableau of me trying to pummel you to death.",1,LEONARD,BBT,0.0,0.6599999999999999,3.5,1,1
+2_223_u,"Well, I'm guessing he wants to do a little dance.  You know, make a little love.  I'll pretty much get down tonight.","I guess he wants to do a little dance, you know, make a little love. Well pretty much get down to that.",1,CHANDLER,FRIENDS,0.3181818181818182,0.0,10.78,1,1
+1_S09E03_170_u,like a dozen times.,"I've done it, like, a dozen times.",0,PENNY,BBT,0.5714285714285714,0.0,0.68,1,0
+3_S01E02_461_u,I was sleeping. I'm sorry for sleeping and for lying about it.,I was sleeping. I'm sorry for sleeping and for lying about it.,0,OTHER,SV,0.0,0.0,4.38,0,1
+1_S09E03_359_u,I'll bet there's something around here that could be a lever.,"I'll bet there's something around here that could be a ""lehver.""",0,HOWARD,BBT,0.09090909090909091,0.0,2.42,1,0
+2_536_u,What a baby.,What a baby.,0,CHANDLER,FRIENDS,0.0,0.0,0.42,1,0
+1_S10E07_198_u,I won't.  Thanks.,"Oh, don't worry, I won't.",0,PENNY,BBT,0.8,0.0,1.16,0,1
+1_10890_u,"Boy, when you met Bernadette, the field of robotics really took a hit.","Boy, when you met Bernadette, the field of robotics really took a hit.",1,RAJ,BBT,0.0,0.8999999999999999,3.94,1,1
+1_5134_u,"Oh yeah, yeah, it's real great. Today I drove to Van Nuys for an audition I thought was going to be for a cat food commercial. Turned out to be porn.","Oh, yeah, yeah. It's real great. Today I drove to Van Nuys for an audition I thought was going to be for a cat food commercial. Turned out to be porn.",1,PENNY,BBT,0.06451612903225806,0.0,6.74,1,1
+2_124_u,I'm so confused as to what we've been doing so far.,I am so confused as to what we have been doing so far.,1,CHANDLER,FRIENDS,0.3076923076923077,0.42000000000000004,3.08,0,0
+2_359_u,"You know, once you're inside, you don't have to knock anymore.","You know once you are inside, you don't have to knock anymore.",1,CHANDLER,FRIENDS,0.25,2.8000000000000003,4.9,1,1
+2_11_u,His cappuccino maker.,His cappucino maker.,1,DOROTHY,GOLDENGIRLS,0.3333333333333333,4.8999999999999995,7.14,1,1
+1_S09E01_439_u,I don't know. Sounds pretty bad. Penny's back in her apartment all by herself.,I don't know. Sounds pretty bad. Penny's back in her apartment all by herself.,0,HOWARD,BBT,0.0,0.0,4.42,1,0
+2_278_u,Good luck.,: Yeah.,0,PERSON,FRIENDS,1.0,0.0,0.4,0,1
+1_7675_u,"Anyway, to this day, I still can't see a box of crayons without crossing my legs.","Anyway, to this day, I still can't see a box of crayons without crossing my legs.",0,PENNY,BBT,0.0,0.7399999999999998,3.96,1,0
+2_303_u,"No thanks, Josephine.",No thanks Josephine!,1,CHANDLER,FRIENDS,0.6666666666666666,1.6200000000000006,3.18,1,1
+1_S12E18_303_u,I don't know. It's great. I just don't want anyone to ever see it or read it or know it exists.,No. (chuckles) It's great. I just don't want anyone to ever see it or read it or know it exists.,1,HOWARD,BBT,0.15,0.0,3.52,1,1
+2_477_u,"And then you click it again, and she's dressed.  She's a businesswoman.  She's walking down the street.  She's window shopping, and oh, oh, oh, she's naked.","And then and then you clicked it again, she's dressed. She is a business woman, she is walking down the street and oh oh oh she's naked.",0,CHANDLER,FRIENDS,0.6296296296296297,0.0,7.32,1,0
+2_541_u,"Oh, yeah, right. And what would my opening line be?  Excuse me.",Oh yeah right. And what would my opening line be? Excuse me,1,CHANDLER,FRIENDS,0.25,0.0,2.72,1,1
+1_5212_u,"I'm sorry, Sheldon bought a loom and learned how to weave?","I'm sorry, Sheldon bought a loom and learned how to weave?",0,PERSON3,BBT,0.0,0.0,3.66,1,0
+1_S09E10_208_u,Nobody knows. That's why he's number one.,Nobody knows. That's why he's number one.,1,PENNY,BBT,0.0,0.0,1.94,1,1
+2_585_u,"You and I, we're interfacing.","You and I, we're interfacing.",0,ROSS,FRIENDS,0.0,0.0,1.4,0,1
+1_S12E09_207_u,Okay.,Okay.,0,HOWARD,BBT,0.0,3.4600000000000004,4.86,0,1
+1_S11E03_365_u,"Oh my God, what happened?","Oh, my God, what happened?!",0,AMY,BBT,0.4,0.0,1.36,0,1
+3_S01E03_021_u,like Jesus over Satan.,Like Jesus over Satan.,0,GILFOYLE,SV,0.0,0.0,2.0,1,0
+1_S12E11_072_u,"No offense, worker bees.","No offense, worker bees.",1,OTHER,BBT,0.0,0.0,1.0,1,1
+2_213_u,"Wait, Chandler, this is what you're having for Thanksgiving dinner?","Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner?",0,RACHEL,FRIENDS,0.18181818181818182,0.0,2.16,1,0
+1_1803_u,i never said that maybe i heard you wrong a lot of words sound like yoga,"- Maybe I heard you wrong. A lot of words sound like ""yoga.""",1,LEONARD,BBT,0.46153846153846156,0.0,4.34,1,1
+1_S10E11_321_u,How many times do I have to say I'm sorry?,How many times do I have to say I'm sorry?,1,PENNY,BBT,0.0,0.0,1.54,0,0
+2_137_u,"Okay, but if he asks, I'm not going to lie.","Okay, but If he asks, I am not going to lie.",0,CHANDLER,FRIENDS,0.18181818181818182,0.37999999999999967,2.8,1,0
+2_118_u,"Seriously, it's moving.","Seriously, it's moving!",0,RACHEL,FRIENDS,0.3333333333333333,0.3600000000000002,1.16,1,0
+1_5786_u,"Alright, so technically it's not a dinner date.  I suppose you could call it a, uh, din-fast date, but if you did, you'd open yourself  to peer-based mocking, such as, hey Leonard, how was your din-fast with Priya last night?","All right, so technically it's not a dinner date. I suppose you could call it a, uh, dinfast date. But if you did, you'd open yourself to peer-based mocking, such as, ""Hey, Leonard, how was your dinfast with Priya last night?""",0,SHELDON,BBT,0.17073170731707318,0.0,13.5,1,0
+1_5964_u,Here she comes.  Smart.  Whisper so the deaf chick can't hear you.,Smart. Whisper so the deaf chick can't hear you.,1,HOWARD,BBT,0.3333333333333333,0.0,3.18,1,1
+2_491_u,"Let me think, let me think.  Oh, uh, I don't care.","Let me think! Let me think! Oh, I don't care.",1,CHANDLER,FRIENDS,0.3,0.0,2.82,1,1
+2_169_u,"Just pass the tape along.  He's not right for the part.  So if I suggest to my bosses, they're going to think I'm an idiot.  And that's something they should learn on their own.","Hes not right for the part, and if I suggest him my bosses are going to think I am an idiot. And thatÕs something they should learn on their own.",1,CHANDLER,FRIENDS,0.4666666666666667,0.0,7.04,1,1
+1_S11E08_351_u,"Yes, what do you want to get me a can of Pwingles?",Yes. Why don't you run get me a can of Pringles.,0,OTHER,BBT,0.5454545454545454,0.7200000000000004,2.72,1,0
+2_71_u,"That's good, just keep rubbing your head  That'll turn back time","ThatÕs good, just keep rubbing your head. That will turn back time",1,JOEY,FRIENDS,0.3333333333333333,0.8799999999999999,4.3,1,1
+1_9668_u,"People usually start a meeting with a joke, but you go ahead, end with one.","People usually start a meeting with a joke, but you go ahead-- end with one.",0,SHELDON,BBT,0.06666666666666667,0.4799999999999993,4.16,1,0
+3_S06E02_152_u,"You're new here, so I'll forgive the patronizing tone.","You're new here, so I'll forgive the patronizing tone.",0,GILFOYLE,SV,0.0,0.0,3.72,1,0
+1_S12E02_105_u,She wasn't trying to breathe life back into him?  I don't think so.,Are you sure she wasn't trying to breathe life back into him?,1,HOWARD,BBT,0.5833333333333334,0.0,4.36,1,1
+1_11889_u,"Yeah, we just want to have the kind of dinner that we've all had here so many times before.  Good f-","Yeah, we just want to have the kind of dinner that we've all had here so many times before.",0,BERNADETTE,BBT,0.10526315789473684,0.0,3.9,1,0
+1_S12E11_190_u,"Well, he really managed to capture my voice.","Well, you really managed to capture my voice.",1,AMY,BBT,0.125,1.6599999999999997,3.76,1,1
+1_12275_u,"No, I overheard Bernadette tell Howard she's making him a meatloaf,  and you don't have to not ask me twice.","Uh, no. I overheard Bernadette tell Howard she was making him a meat loaf, and you don't have to not ask me twice.",0,PERSON,BBT,0.2608695652173913,0.54,5.12,1,0
+1_11699_u,"No, Stuart picked out those throw pillows all on his own.","No, Stuart picked out those throw pillows all on his own.",1,RAJ,BBT,0.0,0.0,3.1,1,1
+2_206_u,"Uh, a t-shirt that says, I don't belong here.",A tshirt that says - I don't belong here.,1,CHANDLER,FRIENDS,0.4444444444444444,0.0,2.38,1,1
+3_S01E03_517_u,He ate the whole bag of gold caps.  Awesome!,He ate the whole bag of gold caps. Awesome!,0,GILFOYLE,SV,0.0,0.5999999999999996,4.2,1,0
+1_S12E02_118_u,Does she just hate her parents?,Is she into you or does she just hate her parents?,1,HOWARD,BBT,0.45454545454545453,0.0,1.04,1,1
+1_S11E19_143_u,"What, the drone or your stupid robot show?",The drone or your stupid robot show,1,HOWARD,BBT,0.2857142857142857,0.0,2.14,1,1
+1_S10E18_164_u,Maybe we should take them both to the park let them run around together,Maybe we should take them both to the park and let them run around together.,1,HOWARD,BBT,0.13333333333333333,0.0,2.82,1,1
+1_S09E04_382_u,that Amy's gone and you two are married now so it's only a matter of time before  you're gone too okay,"How can you say that? Amy's gone, and you two are married now, so it's only a matter of time before you're gone, too.",0,SHELDON,BBT,0.4166666666666667,0.0,6.06,1,0
+3_S02E03_561_u,Does it mean taking a stack of cash and lighting it on fire?,Does it mean taking a stack of cash and lighting it on fire?,1,GILFOYLE,SV,0.0,0.0,3.42,1,1
+2_385_u,He just went on.,"No, I know, but I,he just went on.",0,RACHEL,FRIENDS,0.625,0.0,0.9,0,1
+1_S11E01_400_u,Now Bernadette has to grow a baby inside of her and Amy has to marry one.  My life is great!,"Well, Bernadette has to grow a baby inside of her, and Amy has to marry one. My life is great.",1,PENNY,BBT,0.15,0.0,4.24,1,1
+1_2423_u,"Yeah, provided he has already read Infinite Crisis and 52  and is familiar with the reestablishment of the DC multiverse.",Provided he has already read and is familiar with the reestablishment of the DC multiverse.,0,SHELDON,BBT,0.3333333333333333,0.0,5.68,1,0
+2_161_u,I can see it from right here.  It'll cost you one husband.,I can see it from right here. It'll cost you one husband.,1,CHANDLER,FRIENDS,0.0,0.0,3.18,1,1
+1_S11E10_461_u,Genius.,"Decaf, genius. (clears throat)",0,PENNY,BBT,0.75,0.0,0.26,1,0
+2_506_u,"Oh, my God. Oh, that is it. I'm leaving.  You are just a horrible person.  No, no, no. Wait, wait, wait, wait, wait.","Oh my God!! Ohh, that is it! I'm leaving! You are just a horrible person!",0,RACHEL,FRIENDS,0.9333333333333333,0.0,5.98,0,1
+2_7_u,I've never loved anybody as much as I love you.,I've never loved anybody as much as I love you.,0,MONICA,FRIENDS,0.0,0.6799999999999997,2.64,0,1
+1_S11E01_337_u,"I'm sorry, what?","I'm sorry, what?",0,PENNY,BBT,0.0,3.5399999999999996,4.26,0,1
+1_2119_u,"Kind of makes you feel more alive, doesn't it?","Kind of makes you feel more alive, doesn't it?",1,PERSON,BBT,0.0,0.0,2.4,1,1
+1_S12E07_179_u,"Yeah, sure, you slept with your husband.","Yeah, sure. You slept with your husband.",0,BERNADETTE,BBT,0.14285714285714285,0.0,1.2,1,0
+1_S12E04_195_u,"She can get into any restaurant, but the best husband she can find is Raj.","She can get into any restaurant, but the best husband she can find is Raj?",1,BERNADETTE,BBT,0.06666666666666667,0.0,3.04,1,1
+1_3287_u,"And while we're at it, why don't we put our hands behind our backs  and have an old-fashioned eating contest?","Oh, sure. And while we're at it, why don't we put our hands behind our backs, have an old-fashioned eating contest?",1,SHELDON,BBT,0.19047619047619047,0.0,3.6,1,1
+1_11051_u,well he said it was a triple it could be a toupee but either way it's pretty cool,"Well, he said it was a tribble. It could be a toupee, but either way, it's pretty cool.",0,PERSON,BBT,0.2777777777777778,1.0799999999999996,4.98,1,0
+1_S11E02_008_u,"Yeah, I'm still mad at you.","Yeah, I'm still mad at you. (clears throat)",0,PENNY,BBT,0.25,0.0,0.94,0,1
+1_6188_u,"Oh, my God, that's where I know you from.","Oh, my God, that's where I know you from.",1,PENNY,BBT,0.0,0.0,1.68,0,0
+1_S11E08_305_u,It'd be even better if he swapped out the helium for xenon.,Be even better if he swapped out the helium for xenon.,0,LEONARD,BBT,0.09090909090909091,0.0,2.54,1,0
+2_115_u,"I'm sorry, we don't have your sheep.","I am sorry, we donÕt have your sheep.",1,CHANDLER,FRIENDS,0.375,0.0,2.1,1,1
+1_S10E10_158_u,I would like to keep the official flag of our apartment.,I would like to keep... the official flag of our apartment.,0,LEONARD,BBT,0.09090909090909091,0.0,4.26,1,0
+1_S11E11_077_u,I don't know.,I don't know.,0,HOWARD,BBT,0.0,0.0,0.26,0,1
+1_7047_u,"Also, instead of just living in your mother's house,  you could actually live inside her body.","Also instead of just living in your mother's house, you could actually live inside her body.",1,LEONARD,BBT,0.0625,0.7799999999999987,4.26,1,1
+1_276_u,"Yeah, my parents felt that naming me Leonard and putting me in advanced placement classes wasn't getting me beaten up enough.","Yeah, my parents felt that naming me Leonard and putting me in Advanced Placement classes wasn't getting me beaten up enough.",1,LEONARD,BBT,0.0,0.0,6.72,1,1
+1_S11E07_026_u,"It does, but it's still geology.","It does, but it's still geology.",0,SHELDON,BBT,0.0,0.0,1.6,1,0
+1_S12E09_090_u,You mean the last two minutes or the last 20 years?,You mean the last two minutes or the last 20 years?,1,LEONARD,BBT,0.0,0.0,2.46,1,1
+1_S12E15_154_u,"Well, it is important for you two to keep the spark alive.","Well, it is important for you two to keep the spark alive.",1,BERNADETTE,BBT,0.0,0.0,2.52,1,1
+2_126_u,"live together? No, I'm upset because Joe Piscopo didn't get the lead role in Rain Man.",No I am upset because Joe Piscapo didn't get the lead role in rain man.,1,DOROTHY,GOLDENGIRLS,0.3333333333333333,0.0,4.46,1,1
+1_8185_u,Didn't you go to Red Lobster and talk about it?  We're all thinking it.  I just had the decency to wait for him to leave.,We could go to Red Lobster and talk about it. We're all thinking it. I just had the decency to wait for him to leave.,0,BERNADETTE,BBT,0.12,1.02,8.96,1,0
+2_479_u,"No, I'm worried she might be Phil Rizzuto.",No I am worried she might be Phir Resuda's,1,DOROTHY,GOLDENGIRLS,0.5555555555555556,0.0,2.18,1,1
+2_473_u,I'm the supply manager.,I'm the supply manager.,0,PERSON,FRIENDS,0.0,0.0,0.94,1,0
+3_S05E05_119_u,I'm worried about robots.,I'm worried about robots.,0,GILFOYLE,SV,0.0,0.0,0.78,1,0
+1_1549_u,On a dusty highway just outside Bakersfield.  What do you think on Mars?,On a dusty highway just outside Bakersfield. Where do you think? On Mars!,1,HOWARD,BBT,0.23076923076923078,0.0,4.02,1,1
+2_248_u,me and i am so so fine i mean you and i were just you know we're not,"I mean, you and I we're just, y'know, we're nothing, we're goofin' around.",1,CHANDLER,FRIENDS,1.1538461538461537,0.0,3.54,0,0
+2_380_u,"Okay, just, like, give me a minute to wake up for this.  Ha-ha-ha!  You lost the ring.  You're the worst best man ever.",Oh just like give a minute to wake up for this  ...  Ha ha! You lost the ring. You are the worst best man ever!,0,CHANDLER,FRIENDS,0.44,0.7199999999999998,9.94,1,0
+2_92_u,"No, I'm just looking for a man to draw on me with chalk.","No, no, I am just looking for a man to draw on me with chalk.",1,CHANDLER,FRIENDS,0.2,0.0,2.12,1,1
+2_49_u,"Well, you got a box.",We got a box.,0,JOEY,FRIENDS,0.5,0.8200000000000001,1.54,1,0
+1_213_u,"his hand and go. How's this? Pleased to meet you, Dr. Gabelhauser. How fortunate for you  that the university has chosen to hire you, despite the fact that you've done no original  research in 25 years, and instead have written a series of popular books that reduce the  great concepts of science to a series of anecdotes, each one dumbed down to accommodate the duration  of an average bowel movement.","How's this? ""Pleased to meet you, Dr. Gablehauser. ""How fortunate for you that the university's ""chosen to hire you, despite the fact ""that you've done no original research in 25 years, ""and instead have written a series of popular books ""that reduce the great concepts of science ""to a series of anecdotes, ""each one dumbed down to accommodate the duration ""of an average bowel movement.",1,SHELDON,BBT,0.24615384615384617,0.0,18.98,1,1
+1_S12E23_576_u,Welcome to my life.,Welcome to my life.,1,SHELDON,BBT,0.0,0.0,0.7,0,0
+1_S12E03_095_u,He sent us that Indian marriage questionnaire.,He sent us that Indian marriage questionnaire.,0,LEONARD,BBT,0.0,0.0,2.2,1,0
+1_8746_u,"I enjoyed it, but when you told me I was going to be losing my virginity,  I didn't think you meant showing your raiders of the lost ark for the first time.","I enjoyed it. When you told me I was going to be ""losing my virginity,"" I didn't think you meant showing me "" Raiders of the Lost Ark "" for the first time.",1,AMY,BBT,0.21212121212121213,0.0,6.74,1,1
+2_174_u,"Oh, Satan's minions at work again.",Oh! Satan's minions at work again?,1,CHANDLER,FRIENDS,0.3333333333333333,0.0,2.26,1,1
+2_141_u,We think he was trying to spell out monkey.,We think it was trying to spell out monkey.,1,CHANDLER,FRIENDS,0.1111111111111111,1.6400000000000001,3.38,1,1
+2_495_u,"Okay, guys, just relax.  I do.  I got to go.  Oh, wait, John, John, John.","Okay, you guys, just relax.  I doooo.",0,RACHEL,FRIENDS,1.5714285714285714,0.0,15.06,0,1
+2_627_u,You don't even know me!,"Whoa, whoa, whoa.",0,PERSON,FRIENDS,1.6666666666666667,0.0,0.64,0,1
+1_S11E04_024_u,I already have a little version of Howard.,I already have a little version of Howard.,1,BERNADETTE,BBT,0.0,0.0,1.52,1,1
+1_6211_u,"No, you mean this was all a ruse?  How could I be so stupid?","No. You mean this was all a ruse? Oh, how could I be so stu...",0,SHELDON,BBT,0.2,0.0,4.34,1,0
+1_S12E07_424_u,"What was the case?  Oh, that it...",What was the case?,0,HOWARD,BBT,0.75,0.0,1.98,1,0
+1_5109_u,"Yeah, but you were just sleeping because I  forboded you to have sex.","Yeah, but you were just sleeping, because I forboded you to have sex.",0,RAJ,BBT,0.07692307692307693,0.0,3.04,1,0
+1_S11E23_048_u,"there. Oh, now it's starting to sound like a good wedding.","Ooh, now it's starting to sound like a good wedding.",1,BERNADETTE,BBT,0.2,0.0,2.16,1,1
+1_S11E24_338_u,"Oh, science? Shocking!  You don't underst-","Oh, science? Shocking!",1,PENNY,BBT,1.0,0.0,3.52,1,1
+1_427_u,"Well, I'm sorry too, but there's just no room for you in my wallet.","Well, I'm sorry, too, but there's just no room for you in my wallet.",1,SHELDON,BBT,0.07142857142857142,0.3999999999999997,3.8,1,1
+1_S11E07_381_u,Bird asked for my help.,Bert asked for my help.,0,LEONARD,BBT,0.2,0.0,1.14,0,1
+1_5211_u,"Saying that while holding a snowflake's a little bit heavy-handed, don't you think?","Saying that while holding a snowflake is a bit heavy-handed, don't you think?",1,AMY,BBT,0.23076923076923078,0.3400000000000001,3.32,1,1
+3_S01E06_054_u,"Yes, we are totally fucked.","Yes, we are totally fucked.",0,ERLICH,SV,0.0,0.0,1.16,1,0
+3_S02E10_133_u,"Sorry, I couldn't remember your mother's name.","Sorry, I couldn't remember your mother's name.",1,GILFOYLE,SV,0.0,0.0,1.94,0,0
+2_196_u,What?,What?,0,PHOEBE,FRIENDS,0.0,0.0,0.46,0,1
+2_397_u,You still love me?,You still love me?,0,ROSS,FRIENDS,0.0,0.0,0.76,0,1
+2_260_u,"Okay, are you aware that unagi is an eel?","Okay, are you aware unagi  is an eel?",1,CHANDLER,FRIENDS,0.125,0.0,1.8,1,1
+1_2792_u,"No, I mean, we can always go back to being friends.","No, I mean, we can always go back to being friends.",0,PENNY,BBT,0.0,0.0,2.5,1,0

@@ -1,0 +1,2 @@
+model_name,train_time_sec,train_ram_before_mb,train_ram_after_mb,train_gpu_peak_mb,test_accuracy,test_precision,test_recall,test_f1,classifier_infer_total_sec,classifier_latency_mean_ms,classifier_latency_std_ms,classifier_ram_before_mb,classifier_ram_after_mb,classifier_gpu_peak_mb,approx_flops_per_sample
+distilroberta-base,134.82653281900002,1681.0078125,1453.328125,1347.00390625,0.6055555555555555,0.564625850340136,0.9222222222222223,0.70042194092827,0.45238583799982734,1.8214389666657858,0.46027623385255056,1612.33984375,1614.35546875,1009.265625,5586812928
